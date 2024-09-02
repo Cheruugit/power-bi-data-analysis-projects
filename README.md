@@ -99,5 +99,5 @@ This will help us strengthen relationships with the top clients, reduce dependen
  
  ![question4](https://github.com/user-attachments/assets/29afe395-0ab2-48c8-b9bf-7fd3a307f34d)
 
-
+In summary, our analysis shows key opportunities we can leverage for future success. We should focus on maximizing the strong seasonal trends in the last quarter and apply the successful premium strategies from Spain and Belgium to other markets. Strengthening our top customer relationships and expanding into high-demand regions will also help ensure sustainable growth. These insights will guide our next steps as we refine our strategies.
  
