@@ -81,9 +81,11 @@ Given the evident seasonal boost, it's crucial to ensure that operations, market
 ### [2] Bar Chart
 
 ![question2](https://github.com/user-attachments/assets/074c0719-351c-4e45-a6f0-1f7208e52b62)
+
+
 The UK is excluded from this data since it already has high demand, and the focus is on countries where demand can be increased. The analysis indicates that the Netherlands, Ireland, Germany, and France are leading in terms of units bought and revenue generated. I recommend prioritizing these countries to implement strategies that further capture and expand these markets.
 
-  
+
   ### [3] Column Chart 
   
 
