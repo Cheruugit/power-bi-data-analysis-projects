@@ -90,10 +90,10 @@ The UK is excluded from this data since it already has high demand, and the focu
   
 
 ![question3](https://github.com/user-attachments/assets/97f0ae17-f7ad-4f0e-b0e2-ec4111ebaf58)
-      
-From our chart, we can see the top 10 revenue-generating customers, starting with CustomerID 14646 down to CustomerID 12346
 
-This will help us strengthen relationships with the top clients, reduce dependency by diversifying our customer base, and identify similar high-value prospects for targeted growth
+      
+The analysis focuses on the top 10 customers with the highest purchase volumes from the store. The data reveals that there is minimal difference in the purchase amounts among these top customers, with the highest revenue-generating customer purchasing only 17% more than the second highest. This indicates that the business is not overly dependent on a few customers for its revenue, suggesting that customer bargaining power is low and the business is in a strong position.
+
 
  ### [4] Mapping Visualization
  
