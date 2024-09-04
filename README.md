@@ -67,7 +67,7 @@ Following inferences can be drawn from the dashboard;
 
    
 
-Our data shows a consistent increase in revenue starting from August, which continues through the last quarter of the year. This suggests a strong seasonal demand, likely driven by year-end consumer spending and holiday-related sales.
+The analysis reveals that revenue remains fairly constant during the first eight months of the year, averaging around $685k. However, a notable increase in revenue begins in September, where there is a 40% rise compared to the previous month. This upward trend continues through November, reaching a peak of $1.5 million, the highest for the entire year. Unfortunately, the data for December is incomplete, making it impossible to draw conclusions for that month. Overall, this analysis suggests that the retail store's sales are significantly impacted by seasonality, particularly during the last four months of the year, likely driven by year-end consumer spending and holiday-related sales.
            
 Given the evident seasonal boost, it's crucial to ensure that operations, marketing, and inventory are aligned to capitalize on this momentum.
 
