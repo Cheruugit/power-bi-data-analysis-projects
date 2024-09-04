@@ -92,12 +92,22 @@ The UK is excluded from this data since it already has high demand, and the focu
 ![question3](https://github.com/user-attachments/assets/97f0ae17-f7ad-4f0e-b0e2-ec4111ebaf58)
 
       
-The analysis focuses on the top 10 customers with the highest purchase volumes from the store. The data reveals that there is minimal difference in the purchase amounts among these top customers, with the highest revenue-generating customer purchasing only 17% more than the second highest. This indicates that the business is not overly dependent on a few customers for its revenue, suggesting that customer bargaining power is low and the business is in a strong position.
+The analysis focuses on the top 10 customers with the highest purchase volumes from the store. The data reveals that there is minimal difference in the purchase amounts among these top customers, with the highest revenue-generating customer purchasing only 17% more than the second highest. This indicates that the business is not overly dependent on a few customers for its revenue, suggesting that customer bargaining power is low and the business is in a good position.
+
 
 
  ### [4] Mapping Visualization
  
  ![question4](https://github.com/user-attachments/assets/29afe395-0ab2-48c8-b9bf-7fd3a307f34d)
+
+
+Finally, the map chart shows the regions that have generated the most revenue compared with
+the regions that have not. Apart from the UK, countries such as Netherlands,
+Ireland, Germany, France and Australia are generating high revenue and the company should
+invest more in these areas to increase demand for products. The map also shows that most of
+the sales are only in the European region with very few in the American region. Africa and Asia
+do not have any demand for the products, along with Russia. A new strategy targeting these
+areas has the potential to boost sales revenues and profitability.
 
 In summary, our analysis shows key opportunities we can leverage for future success. We should focus on maximizing the strong seasonal trends in the last quarter and apply the successful premium strategies from Spain and Belgium to other markets. Strengthening our top customer relationships and expanding into high-demand regions will also help ensure sustainable growth. These insights will guide our next steps as we refine our strategies.
  
