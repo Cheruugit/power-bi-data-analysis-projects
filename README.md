@@ -1,5 +1,7 @@
  # Sales-Dashboard
 
+ ### Dashboard Link : https://app.powerbi.com/groups/me/reports/5e808d26-06f5-485d-a128-e80a6c54ba8f/f29ba77221050ab2e7ca?experience=power-bi
+
 ## Problem Statement
 
 The CEO and CMO of an online retail store need insights from their revenue and sales data to guide strategic decisions. They have specific requirements:
