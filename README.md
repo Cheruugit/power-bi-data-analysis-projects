@@ -48,7 +48,7 @@ A card visual was used to represent Revenue collected.
 
  - Step 13 : The report was then published to Power BI Service.
 
-
+![Screenshot (108)](https://github.com/user-attachments/assets/b8a47f7d-6622-4ef3-ad48-c142711fa712)
 
 
 # Snapshot of Dashboard 
